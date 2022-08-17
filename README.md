@@ -1,13 +1,13 @@
 ### Hi! 👋
 Hey there, my name is Edward and I'm a computer science student at the University of Maryland 🔴🐢.
 
-
+---
 ### Skills 🧠
 **Languages**: Python, JavaScript/TypeScript, Java, Bash, Perl, HTML/CSS
 
 **Technologies**: ReactJS, AstroJS, ViteJS, Django, Flask, Bootstrap5, Git, Heroku
 
-
+---
 ### Let's chat 💬 
 
 Feel free to reach out by email or LinkedIn [edwardxiao29@gmail.com](mailto:edwardxiao29@gmail.com) | [www.linkedin.com/in/edward-xiao-986b97248/](https://www.linkedin.com/in/edward-xiao-986b97248/)
