@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋
+Hey there, my name is Edward and I'm a computer science student at the University of Maryland.
+
+
+
+💬 Feel free to reach out by email or LinkedIn [edwardxiao29@gmail.com](mailto:edwardxiao29@gmail.com) | [www.linkedin.com/in/edward-xiao-986b97248/](https://www.linkedin.com/in/edward-xiao-986b97248/)
 
 <!--
 **EdwardX29/EdwardX29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
