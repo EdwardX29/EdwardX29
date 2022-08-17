@@ -6,7 +6,7 @@ Hey there, my name is Edward and I'm a computer science student at the Universit
 **Languages**: Python, JavaScript/TypeScript, Java, Bash, Perl, HTML/CSS
 
 **Technologies**: 
-<span height="20px">Django</span><img src="https://user-images.githubusercontent.com/69602889/185224705-52d72aab-fef3-4586-a44b-80edf7cae597.svg" height="20px"/>, 
+<span line-height="20px">Django</span><img src="https://user-images.githubusercontent.com/69602889/185224705-52d72aab-fef3-4586-a44b-80edf7cae597.svg" height="20px"/>, 
 Flask <img src="https://user-images.githubusercontent.com/69602889/185225014-0b759c7b-5933-452c-982f-e3497b32c3a3.svg" width="20px" />,
 ReactJS <img src="https://user-images.githubusercontent.com/69602889/185224904-8e075175-2c7f-4e4c-abdd-b1292c2421cb.svg" width="20px" />,
 AstroJS, 
