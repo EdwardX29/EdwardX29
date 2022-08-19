@@ -1,5 +1,7 @@
 ### Hi! 👋
-Hey there, my name is Edward and I'm a computer science student at the University of Maryland 🔴🐢.
+Hey there, my name is Edward and I'm a computer science student at the University of Maryland 🔴🐢.     
+
+Check out my [portfolio](https://edwardx29.github.io/EdPortfolio/)!
 
 ---
 ### Skills 🧠
