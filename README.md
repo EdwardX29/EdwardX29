@@ -1,8 +1,8 @@
 ### Hi! 👋
 Hey there, my name is Edward and I'm a computer science student at the University of Maryland 🔴🐢.     
-
-Check out my [portfolio](https://edwardx29.github.io/EdPortfolio/)!     
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardX29&theme=blood-dark)
+     
+Check out my [portfolio](https://edwardx29.github.io/EdPortfolio/)!        
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdwardX29&theme=blood-dark)     
 ---
 ### Skills 🧠
 **Languages**: Python, JavaScript/TypeScript, Java, Bash, Perl, HTML/CSS
